@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "How to not relapse during a NoFap streak?"
 [date]
 
