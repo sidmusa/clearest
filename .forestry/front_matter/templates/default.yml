@@ -1,5 +1,6 @@
 ---
 pages:
+- post/title.md
 - post/this-is-great.md
 hide_body: false
 fields:
