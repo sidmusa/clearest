@@ -1,4 +1,6 @@
 ---
+pages:
+- post/this-is-great.md
 hide_body: false
 fields:
 - name: date
